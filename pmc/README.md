@@ -8,7 +8,7 @@ First, you'll need to compile the parallel maximum clique library.
 
 *PMC* has been tested on Ubuntu linux (10.10 tested) and Mac OSX (Lion tested) with gcc-mp-4.7 and gcc-mp-4.5.4
    
-### Compute Maximum Clique
+### Run Maximum Clique Computation
 
 All the datasets are inside `data` folder. To run PMC algorithm for dataset `X` with one thread:
 
