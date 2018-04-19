@@ -12,7 +12,7 @@ First, you'll need to compile the parallel maximum clique library.
 
 All the datasets are inside `data` folder. To run PMC algorithm for dataset `X` with one thread:
 
-		./pmc -f `X` -a 0 -t 1
+		./pmc -f `data/X` -a 0 -t 1
 		
 Example:
 
