@@ -11,11 +11,11 @@ Compile the parallel maximum clique library.
    
 ### Run
 
-All the datasets are inside `data` folder. To run PMC algorithm for dataset `X` with one thread:
+All the datasets are inside `data` folder. 
 
-		./pmc -f `data/X` -a 0 -t 1
-		
-Example:
+To run PMC algorithm for amazon dataset with one thread:
 
 		./pmc -f data/amazon.mtx -a 0 -t 1
+	
+To run for other datasets only need to change the file name in the command
 		

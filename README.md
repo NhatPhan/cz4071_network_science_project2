@@ -1,2 +1,4 @@
-# cz4071_network_science_project2
-Network Science CZ4071 Project 2 
+# CZ4071 Network Science Project 2
+
+### Setup and Running
+Each algorithm (PMC, MCQD, RMC) contains a README.md file inside its corresponding folder
